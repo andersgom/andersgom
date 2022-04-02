@@ -11,15 +11,16 @@
 </a>
 
 ### **Skills**
-<br>
 <div>  
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="R" width=30 style="margin: 10px" />  
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width=30 style="margin: 10px" />  
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="R" width=30 style="margin: 10px" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width=30 style="margin: 10px" />
 <img src="https://public.tableau.com/s/favicon.ico" alt="Tableau" width=30 style="margin: 10px" />  
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_170953.png" alt="Power Bi" width=30 style="margin: 10px" />  
+<img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Power Bi" width=30 style="margin: 10px" />  
 <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" alt="Excel" width=30 style="margin: 10px" />  
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" width=30 style="margin: 10px" /> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" width=30 style="margin: 10px" /> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" width=30 style="margin: 10px" />
 </div>  
-<br>
-. . . And currently learning Python <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="VSCode" width=17 /> .
+
+<div>
+  <p>. . . And currently learning Python. <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="VSCode" width=17 /></p>
+</div>
