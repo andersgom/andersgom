@@ -1,4 +1,4 @@
-#### *Find me at*
+### *Find me at*
 <br>
 <a href="https://www.linkedin.com/in/andres-sanchez-gomez/" target="_blank">
 <img src=https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico width=30 alt=LinkedIn style="margin: 10px;" />
@@ -10,7 +10,7 @@
 <img src=https://public.tableau.com/s/favicon.ico width=30 alt="Tableau Public" style="margin: 10px;" />
 </a>
 
-#### *Skills*
+### *Skills*
 <div>  
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="R" width=30 style="margin: 10px" />
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width=30 style="margin: 10px" />
