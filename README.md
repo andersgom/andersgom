@@ -3,7 +3,7 @@
 ## Data Analyst
  --------------
 
-- Based in Lisbon since 2018. <img src=img.gif width=20/>
+- Based in Lisbon since 2018.
 - Upskilling myselft from Data Analyst to Data Scientist.
 
 ### **Find me at**
