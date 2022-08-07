@@ -1,7 +1,7 @@
 # Andrés Sánchez Gómez
 
 ## Data Analyst
- --------------
+
 
 - Based in Lisbon since 2018.
 - Upskilling myselft from Data Analyst to Data Scientist.
