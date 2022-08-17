@@ -4,7 +4,7 @@
 
 
 - Based in Lisbon since 2018.
-- Upskilling myselft from Data Analyst to Data Scientist.
+- Upskilling myself from Data Analyst to Data Scientist.
 
 ### **Find me at**
 <br>
