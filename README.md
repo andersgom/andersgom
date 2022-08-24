@@ -3,7 +3,7 @@
 ## Data Analyst
 
 
-- Based in Lisbon since 2018.
+- Born in Sevilla, based in Lisbon.
 - Upskilling myself from Data Analyst to Data Scientist.
 
 ### **Find me at**
