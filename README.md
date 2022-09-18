@@ -39,5 +39,5 @@
 <div>
 <a href="https://www.codewars.com/users/andersgom
 " target="_blank">
-<img src=https://www.codewars.com/users/andersgom/badges/large/>
+<img src=https://www.codewars.com/users/andersgom/badges/small width=350/>
 </div>
