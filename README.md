@@ -30,3 +30,14 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" width=30 style="margin: 10px" /> 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" width=30 style="margin: 10px" />
 </div>
+
+<br>
+
+### **Sometimes I do katas for fun**
+
+<br>
+<div>
+<a href="https://www.codewars.com/users/andersgom
+" target="_blank">
+<img src=https://www.codewars.com/users/andersgom/badges/large/>
+</div>
