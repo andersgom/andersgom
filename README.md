@@ -21,6 +21,7 @@
 <br>
 
 ### **Skills**
+<br>
 <div>  
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="Python" width=30 style="margin: 10px" />
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width=30 style="margin: 10px" />
