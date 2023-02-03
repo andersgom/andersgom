@@ -4,7 +4,7 @@
 
 
 - Born in Sevilla 🇪🇸, based in Lisbon 🇵🇹.
-- Upskilling myself from Data Analyst to Data Scientist.
+- Upskilling myself from Data Analyst to Data Engineer.
 
 ### **Find me at**
 <br>
