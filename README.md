@@ -1,10 +1,10 @@
 # Andrés Sánchez Gómez
 
-## Data Analyst
+## Data Engineer
 
 
 - Born in Sevilla 🇪🇸, based in Lisbon 🇵🇹.
-- Upskilling myself from Data Analyst to Data Engineer.
+- Lifelong learner and passionate about data.
 
 ### **Find me at**
 <br>
